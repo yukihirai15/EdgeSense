@@ -1,0 +1,8 @@
+targets:
+  - name: google
+    address: google.com
+    probes: [http, tcp, dns]
+  - name: cloudflare
+    address: 1.1.1.1
+    probes: [dns, tcp]
+    

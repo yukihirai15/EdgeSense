@@ -1,0 +1,6 @@
+pyyaml
+requests
+dnspython
+scikit-learn
+numpy
+tabulate
